@@ -3,7 +3,7 @@
 
 I'm a Materials, Additive Manufacturing, and Operations Engineer with 5+ years of experience bringing complex physical products to life, from industrial 3D printers to medical devices. My professional world has been one of atoms, materials, and manufacturing lines.
 
-This GitHub profile is my space to document my journey into the world of bits, data, and algorithms as I pursue my Master's in Big Data & Analytics. Here, I'm building projects that merge my engineering background with my passion for data.
+This GitHub profile is my space to document my journey into the world of bits, data, and algorithms as I pursue my Master's in Big Data & Analytics. Here, I'm building projects that merge my engineering background with my interest in data analytics.
 
 ### My First Projects & My Approach to Learning
 
