@@ -5,7 +5,7 @@ I'm a Materials, Additive Manufacturing, and Operations Engineer with 5+ years o
 
 This GitHub profile is my space to document my journey into the world of bits, data, and algorithms as I pursue my Master's in Big Data & Analytics. Here, I'm building projects that merge my engineering background with my passion for data.
 
-### My First Project & My Approach to Learning
+### My First Projects & My Approach to Learning
 
 As I begin this journey, my first projects will be developed with the assistance of AI tools. I believe in using modern tools to accelerate learning and understand current development workflows. My goal is to be transparent about this process, documenting what I'm learning and how I'm applying it to solve tangible, industry-relevant problems.
 
